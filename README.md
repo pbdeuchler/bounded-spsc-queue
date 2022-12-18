@@ -1,7 +1,7 @@
 
 ## Bounded SPSC Queue
 
-[![Nightly Build Status](https://travis-ci.org/polyfractal/bounded-spsc-queue.svg?branch=master)](https://travis-ci.org/polyfractal/bounded-spsc-queue)
+#### This is a fork of a fork of the original `polyfractal/bounded-spsc-queue` with some QOL PRs merged
 
 This crate provides a very simple bounded, Single-producer Single-consumer (SPSC)
 queue for Rust.  It provides a data structure for two threads to communicate
